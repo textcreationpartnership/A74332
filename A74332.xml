@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the admitting of the six counties of North-Wales to a general composition for their delinquency. Die Veneris, 10 Augusti, 1649. Ordered by the Commons assembled in Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliament'.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74332</idno>
+            <idno type="STC">Thomason E1060_54</idno>
+            <idno type="STC">ESTC R40224</idno>
+            <idno type="EEBO-CITATION">99872575</idno>
+            <idno type="PROQUEST">99872575</idno>
+            <idno type="VID">169037</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74332)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169037)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[54])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the admitting of the six counties of North-Wales to a general composition for their delinquency. Die Veneris, 10 Augusti, 1649. Ordered by the Commons assembled in Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliament'.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>p. [2], 441-450 [i.e. 12 p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Husband, printer to the Parliament of England, and are to be sold at his shop in Fleetstreet, at the sign of the Golden-Dragon, near the Inner-Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: 4G⁴ 4H² . Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>On 4G2r: last word of first line of text: "Coun-"; first word of line below initial: "late"; last word of last full line: "di-".</note>
+                  <note>Ornament on t.p.; initial letter; part of text in black letter.</note>
+                  <note>Reproductions of the originals in the British Library (Thomason Tracts) and the National Library of Wales (Early English books).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fines (Penalties) --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Wales --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169037:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <p>AN ACT For the Admitting of the Six Counties of <hi>NORTH-WALES</hi> TO A General Compoſition For their DELINQUENCY.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Veneris, 10 Auguſti, 1649.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons aſſembled in Parliament, That this Act be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliament'.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Parliament of <hi>England,</hi> and are to be ſold at his Shop in Fleetſtreet, at the Sign of the Gold-Dragon, near the Inner-Temple, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169037:2"/>
+            <!-- PDF PAGE 38 -->
+            <pb n="441" facs="tcp:169037:2"/>
+            <!-- PDF PAGE 38 -->
+            <head>AN ACT For the admitting of the Six Counties of <hi>North-Wales</hi> to a General COMPOSITION For their Delinquency.</head>
+            <p>
+               <seg rend="decorInit">V</seg>VHereas the five Coun<g ref="char:EOLhyphen"/>ties of <hi>Northwales; <hi>viz.</hi> Montgomery, Denbigh, Flint, Merioneth</hi> and <hi>Car<g ref="char:EOLhyphen"/>narven,</hi> with the Iſland and County of <hi>Angle<g ref="char:EOLhyphen"/>ſey,</hi> have been for many years together, ſince the beginning of theſe late Wars, wholly un<g ref="char:EOLhyphen"/>der the power of the late Kings Army and Forces; by reaſon where<g ref="char:EOLhyphen"/>of, many well-affected perſons to the Parlia<g ref="char:EOLhyphen"/>ment within the ſaid Counties, have been forced through compulſion or fear, for the avoiding of preſent ruine to themſelves and Families, to comply with the ſaid Forces in unwarrantable acts and Engagements, whereby they are be<g ref="char:EOLhyphen"/>come involved in a general guilt and defection from the Parliament, and the authority thereof: The Commons of <hi>England</hi> aſſembled in Parlia<g ref="char:EOLhyphen"/>ment (at the humble and earneſt Requeſt of di<g ref="char:EOLhyphen"/>vers
+<pb n="442" facs="tcp:169037:3"/>
+               <!-- PDF PAGE 39 -->of the Inhabitants of the ſaid counties) taking the ſame into ſerious conſideration; and being willing that ſome diſtinction may be made between ſuch perſons as have been eminently active in the raiſing and promoting of the ſaid War, and thoſe that were moved by conſtraint or fear to a compliance with the Enemy, being under their power, and are now reſolved to ad<g ref="char:EOLhyphen"/>here to the Intereſt of this Commonwealth, as it is now eſtabliſhed; and being likewiſe wil<g ref="char:EOLhyphen"/>ling, that ſuch money as is by any Ordinance or Order of Parliament charged upon the E<g ref="char:EOLhyphen"/>ſtates of new Delinquents in <hi>Northwales,</hi> and payable to perſons well-affected to the Parlia<g ref="char:EOLhyphen"/>ment, and to the preſent Conſtitution of this Commonwealth ſhould be paid accordingly, Do Declare and Ordain, and be it Ordained and Enacted by this preſent Parliament, and by au<g ref="char:EOLhyphen"/>thority of the ſame, That the Inhabitants of the ſaid five counties of <hi>Northwales; (viz.) Mont<g ref="char:EOLhyphen"/>gomery, Denbigh, Flint, Carnarvon</hi> and <hi>Merioneth,</hi> and of the ſaid Iſland and county of <hi>Angleſey,</hi> and every of them (except ſuch perſons as are hereafter in this Act excepted) be and are hereby admitted to a general Compoſition; and that the ſum of Four and twenty thouſand pounds be raiſed upon the ſaid Five counties, and the ſaid Iſland and county of <hi>Angleſey;</hi> that is to ſay, On the county of <hi>Montgomery,</hi> the ſum of Three thouſand pounds; On the county of <hi>Den<g ref="char:EOLhyphen"/>bigh,</hi> the ſum of Three thouſand pounds; On the county of <hi>Flint,</hi> the ſum of Two thouſand pounds; On the county of <hi>Carnarvon,</hi> the ſum of Four thouſand pounds; On the county of <hi>Me<g ref="char:EOLhyphen"/>rioneth,</hi> the ſum of Three thouſand pounds; On the Iſland and county of <hi>Angleſey,</hi> the ſum of Nine thouſand pounds, to be paid in maner and
+<pb n="443" facs="tcp:169037:3"/>
+               <!-- PDF PAGE 39 -->form following (that is to ſay) the firſt moyety a<g ref="char:EOLhyphen"/>mounting to the ſum of twelve thouſand pounds, within ten weeks after the paſſing of this Act, and the other moyety being Twelve thouſand pounds, to be paid within ten weeks then next enſuing; which ſaid ſum of Four &amp; twenty thou<g ref="char:EOLhyphen"/>ſand pounds is to be paid to the Treaſurers at Wars for the Army, who are hereby authorized to receive the ſame, and any two of them, to give receipts or acquittances under their hands and ſeals for the ſame; which ſaid receipts or acquit<g ref="char:EOLhyphen"/>tances ſhall be a ſufficient diſcharge, to all in<g ref="char:EOLhyphen"/>tents &amp; purpoſes, to the ſaid reſpective counties and Iſland, and unto ſuch as they ſhall appoint to pay the ſame, according to the true intent of this Act: And to the end the ſaid ſum of Four and twenty thouſand pounds may be equally and indifferently taxed, proportioned and levied upon the reſpective Inhabitants of the ſaid counties, unto whom the benefit of this Act is to extend; Be it further Enacted by the authori<g ref="char:EOLhyphen"/>ty aforeſaid, That <hi>Thomas Mitton, John Jones, John Carter, George Twiſleton, Thomas Maſon, Thomas Ma<g ref="char:EOLhyphen"/>drin, Edmund Glyn,</hi>
+               <abbr>Eſqs</abbr>
+               <hi>Robert Soutley</hi>
+               <abbr>Eſq</abbr>
+               <hi>Thomas Ball</hi>
+               <abbr>Eſq</abbr>
+               <hi>John Peck</hi>
+               <abbr>Eſq</abbr>
+               <hi>Richard Baſsnet</hi> Gent. <hi>Ed<g ref="char:EOLhyphen"/>ward Wyn</hi>
+               <abbr>Eſq</abbr>
+               <hi>Thomas Crichley</hi> Gent. <hi>Daniel Lloid</hi> Gent. <hi>Watkin Kyffin</hi> Gent. <hi>William Wyn</hi> Gent. <hi>Gerard Barbour</hi>
+               <abbr>Eſq</abbr>
+               <hi>Gruffith Glin</hi> Gent. <hi>Ri<g ref="char:EOLhyphen"/>chard Anwil</hi>
+               <abbr>Eſq</abbr> Captain <hi>Thomas Pugh, Lewis Lloid</hi>
+               <abbr>Eſq</abbr>
+               <hi>Peter Meirick</hi>
+               <abbr>Eſq</abbr> Major <hi>Edward Moor, Roger Hanmer</hi>
+               <abbr>Eſqs</abbr> Sir <hi>John Trevor</hi> Knight, <hi>John Pu<g ref="char:EOLhyphen"/>leſton</hi>
+               <abbr>Eſq</abbr> one of the Iuſtices of the Common Pleas, <hi>Thomas Ravenſcroft</hi>
+               <abbr>Eſq</abbr>
+               <hi>John Alderſey</hi>
+               <abbr>Eſq</abbr>
+               <hi>Luke Lloid, Humphrey Dymmock,</hi>
+               <abbr>Eſqs</abbr>
+               <hi>Andrew Ellice</hi>
+               <abbr>Eſq</abbr>
+               <hi>Thomas Dymmock</hi> Eſquire, <hi>Daniel Mathews</hi> Gent. <hi>Hugh Courtney</hi> Gent. Sir <hi>John Wittewrong</hi> Knight, <hi>Evan Lloid, Hugh Price, Richard Price, Ri<g ref="char:EOLhyphen"/>chard
+<pb n="444" facs="tcp:169037:4"/>
+                  <!-- PDF PAGE 40 -->Gruffith Robert Gruffith, Rice Vaughan</hi>
+               <abbr>Eſqs</abbr>
+               <hi>Samuel Big</hi> Gent. <hi>Edward Owen</hi> of <hi>Caſtle-Dail, Owen Salusbury,</hi>
+               <abbr>Eſq</abbr>
+               <hi>Gruffith Nanney, John Lloyd, Lewis Owen, Robert Vaughan,</hi>
+               <abbr>Eſqs</abbr>
+               <hi>Robert Owen, Thomas Michael,</hi> Gent. <hi>William Williams</hi> Eſquire, be and hereby are conſtituted and appointed Commiſ<g ref="char:EOLhyphen"/>ſioners for the ſaid ſeveral and reſpective coun<g ref="char:EOLhyphen"/>ties and Iſland; which ſaid Commiſſioners or any five of them, have hereby full power and authority to do all and every ſuch act and acts as may further the rating and collecting of the ſaid ſum of Twenty four thouſand pounds upon the ſaid reſpective counties and Iſland, in the maner and proportion aforeſaid; and to remove all lets and obſtructions, and determine all dif<g ref="char:EOLhyphen"/>ferences that may hinder the effectual proſecu<g ref="char:EOLhyphen"/>tion of this work; and to ſuperviſe and regulate proceedings to the beſt of their judgements, ac<g ref="char:EOLhyphen"/>cording to the true intent and meaning of this Act.</p>
+            <p>
+               <hi>Provided always, That no welaffected perſon in any of the ſaid Counties and Iſland, be compelled to pay any Rate or Tax towards the raiſing of the ſaid ſums or any of them. Provided alſo, That this Act ſhall not extend to diſcharge or pardon any perſon excepted from pardon, or from Compoſition for his Eſtate, by the Propoſitions ſent to the late King at Newcaſtle, nor by any Act, Order or Vote of Parliament not yet repealed.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>2. Nor any Member of Parliament, that hath deſerted his Truſt, and adhered to the Enemy.</hi>
+               </item>
+               <item>
+                  <hi>3. Nor any perſon that hath aſsiſted the Iriſh Rebellion, or held correſpondency or Intelligence with the Rebels in Ireland.</hi>
+               </item>
+               <item>
+                  <hi>4. Nor any perſon that having been in Arms againſt the Parliament, doth reſide in France or Ireland, or in any other parts beyond the Seas.</hi>
+               </item>
+               <item>
+                  <pb n="445" facs="tcp:169037:4"/>
+                  <!-- PDF PAGE 40 -->
+                  <hi>5. Nor any perſon that hath given Intelligence to, or held correſpondency in any thing againſt the Parliament, with CHARLS STUART the late Kings Son, or his Adhe<g ref="char:EOLhyphen"/>rents, in any of the parts beyond the Seas.</hi>
+               </item>
+               <item>
+                  <hi>6. Nor any Delinquent, or otherwiſe ſcandalous Mini<g ref="char:EOLhyphen"/>ſter or Clergy man (as to Eccleſiaſtical Promotions onely) that is already duly Sequeſtred or Sequeſtrable, nor at all to pardon ſuch of them as have plotted or contrived the Revolt of the ſaid Iſland of Angleſey.</hi>
+               </item>
+               <item>
+                  <hi>7. Nor any Papiſts in arms, nor any other Papiſts for the two Thirds of their Eſtates Sequeſtred or Sequeſtra<g ref="char:EOLhyphen"/>ble, according to former Orders or Ordinances of Parlia<g ref="char:EOLhyphen"/>ment for their non-conformity.</hi>
+               </item>
+               <item>
+                  <hi>8. Nor any perſons that are now Priſoners of War.</hi>
+               </item>
+               <item>
+                  <hi>9. Nor any perſon that hath publique Money in his hands, for which he ought to accompt, and ſhall not diſ<g ref="char:EOLhyphen"/>cover and pay the ſame to the Treaſurers for the Army, for the uſe of the Commonwealth, within three moneths after the paſsing of this Act. Provided further, That this Act ſhall not extend to diſcharge any perſon that hath his Fine ſet at Goldſmiths Hall, from the payment of the ſame to the Treaſurers there accordingly. Provided alſo, That this Act ſhall not extend to make any perſon capa<g ref="char:EOLhyphen"/>ble to bear any Office in the Commonwealth, contrary to any former Act or Ordinance of Parliament, without conſent of Parliament.</hi>
+               </item>
+            </list>
+            <p>Provided likewiſe, and be it further Enacted by the authority aforeſaid, That all perſons within the ſaid reſpective counties and Iſland, that have been engaged againſt the Parliament (not compriſed within the former Exceptions, Qualifications or Crimes, to the diſcharging or pardoning whereof this Act is not to extend) that are not worth in Lands four pounds <hi>per annum,</hi> or in perſonal eſtate Forty pounds, and ſhall declare unto the ſaid Commiſsioners or
+<pb n="446" facs="tcp:169037:5"/>
+               <!-- PDF PAGE 41 -->any five of them, their firm reſolutions, faith<g ref="char:EOLhyphen"/>fully to adhere to the intereſt of this Com<g ref="char:EOLhyphen"/>monwealth, ſhall not be taxed or compelled to pay any part of the ſaid ſum of Twen<g ref="char:EOLhyphen"/>ty four thouſand pounds, but are hereby freely pardoned and diſcharged of their De<g ref="char:EOLhyphen"/>linquency: And be it further Enacted by the authority aforeſaid, That all the Inhabitants in the ſaid ſeveral and reſpective counties of <hi>Montgomery, Denbigh, Flint, Merioneth</hi> and <hi>Carna<g ref="char:EOLhyphen"/>von,</hi> and in the ſaid Iſland of <hi>Angleſey</hi> (that have Eſtates above the values aforeſaid in the ſaid reſpective counties) or any of them (except the perſons before excepted, and compriſed in the ſaid former Qualifications, unto whom the be<g ref="char:EOLhyphen"/>nefit of this Act is not to extend) and ſhall duly pay their proportions of the ſaid ſum of Twenty four thouſand pounds, according to the true meaning of this Act, and conſtantly and faith<g ref="char:EOLhyphen"/>fully adhere to the preſent eſtabliſhed intereſt of this Nation, be and are pardoned and ac<g ref="char:EOLhyphen"/>quitted of and for any act of Delinquency or offence committed or done by them, or any of them, againſt the Parliament, to the time of the paſsing of this Act; and are hereby permitted to enjoy all their ſeveral and reſpective eſtates, without moleſtation, to all intents and purpoſes whatſoever, free from any act done or to be done againſt them, or any of them, by vertue, colour or pretence of any Act, Ordinance or Order of Par<g ref="char:EOLhyphen"/>liament, for Sequeſtration of Delinquents eſtates. Provided moreover, and be it Enacted and Ordained by the authority aforeſaid, That if any perſon or perſons that have complyed with the late Kings Forces, or are lyable to Seque<g ref="char:EOLhyphen"/>ſtration within the ſaid ſeveral and reſpective counties, and Iſland of <hi>Angleſey,</hi> or any of them,
+<pb n="447" facs="tcp:169037:5"/>
+               <!-- PDF PAGE 41 -->ſhall refuſe to pay his or their proportion, as the ſame ſhall be rated or taxed, and approved of by the ſaid Commiſsioners, or any five of them (towards the raiſing of the aforeſaid Fine) with<g ref="char:EOLhyphen"/>in the time herein limited for the payment of the ſame, ſuch perſon and perſons ſo refuſing, are not to have any benefit or immunity by this Act, but are left to be effectually proceeded againſt, according to the ſeveral Ordinances of Seque<g ref="char:EOLhyphen"/>ſtrations. And be it further Enacted by the au<g ref="char:EOLhyphen"/>thority aforeſaid, That ſuch ſum and ſums of Money as are by any Ordinance or Order of Parliament charged upon the eſtates of New Delinquents in <hi>Northwales,</hi> and payable to per<g ref="char:EOLhyphen"/>ſons well-affected to the Parliament, and to the preſent Conſtitution of this Commonwealth (not exceeding in the whole the ſum of Four thou<g ref="char:EOLhyphen"/>ſand pounds) be according to the true intent and meaning of the ſaid ſeveral Ordinances and Orders, paid and diſcharged out of the ſaid ſum of Twenty four thouſand pounds. And the Treaſurers at Wars are authorized and required to pay and diſcharge the ſame accord<g ref="char:EOLhyphen"/>ingly; and to the end this preſent Act, and the ſeveral former Ordinances of Sequeſtrations may be the better put in execution, Be it fur<g ref="char:EOLhyphen"/>ther Enacted by the authority aforeſaid, That the ſaid <hi>Thomas Mitton, John Jones, John Carter, George Twiſleton, Thomas Maſon, Thomas Madrin, Edmond Glyn, Robert Sontley, Thomas Ball, John Peck, Richard Baſſnet, Edward Wyn, Thomas Crichley, Daniel Lloyd, Watkin Kyffin, William Wyn, Gerard Barbour, Griffith Glyn, Richard Anwyl,</hi> Captain <hi>Thomas Pugh, Lewis Lloyd, Peter Meirick,</hi> Major <hi>Edward Moor, Roger Hanmer,</hi> Sir <hi>John Trevor, John Puleſton, Thomas Ravenſcroft, John Alder<g ref="char:EOLhyphen"/>ſey, Luke Lloyd, Humphrey Dymmock, Andrew
+<pb n="448" facs="tcp:169037:6"/>
+                  <!-- PDF PAGE 42 -->Ellice, Thomas Dymmock, Daniel Mathews, Hugh Courtney,</hi> Sir <hi>John Wittewrong, Evan Lloyd, Hugh Price, Richard Price, Richard Gruffith, Robert Gruffith, Rice Vaughan, Samuel Big, Edward Owen</hi> of <hi>Caſtle-Dail, Owen Salusbury, Gruffith Nanney, John Lloyd, Lewis Owen, Robert Vaughan, Robert Owen, Thomas Michael, William Williams,</hi> or any three or more of them, ſhall be and hereby are conſtituted and appointed to be a Committee, for the putting in execution all and every the Ordinances of Se<g ref="char:EOLhyphen"/>queſtrations of Delinquents &amp; Papiſts eſtates, according to the true intent and meaning of this Act, and of the ſaid ſeveral Ordinances; which ſaid Committee, or any three or more of them, are hereby authorized and required to Seque<g ref="char:EOLhyphen"/>ſter, or cauſe to be ſequeſtred the eſtates Real and Perſonal of all and every perſon and per<g ref="char:EOLhyphen"/>ſons (being Delinquents or Papiſts) within the ſaid ſeveral Counties and Iſland, whoſe eſtates by the true meaning of this Act ought to be ſe<g ref="char:EOLhyphen"/>queſtred, and unto whom the benefit of this Act is not extended; and the ſaid eſtates ſo ſeque<g ref="char:EOLhyphen"/>ſtred, to diſpoſe of as by the ſeveral Ordinances or Orders of Parliament in that behalf is re<g ref="char:EOLhyphen"/>quired; obſerving in the execution of the premi<g ref="char:EOLhyphen"/>ſes, ſuch further Orders and Directions as they ſhall from time to time receive from the Com<g ref="char:EOLhyphen"/>mittee of Goldſmiths-hall. And be it further Enacted by the authority aforeſaid, That the ſaid Commiſsioners or any five of them, ſhall have and hereby have full power and authority to hear and examine Complaints, as well touch<g ref="char:EOLhyphen"/>ing the inequality of Aſſeſſments of former and future Taxes levyed, or to be levyed in the ſaid reſpective Counties, or any of them for the Service of the Parliament: As alſo touching allowance to be made by Landlords
+<pb n="449" facs="tcp:169037:6"/>
+               <!-- PDF PAGE 42 -->to their Tenants in reſpect of Taxes, and to order ſuch relief therein as ſhall be agreeable to Equity and Iuſtice, and to the true intent and meaning of the ſeveral Ordinances of Parlia<g ref="char:EOLhyphen"/>ment in that behalf made: And be it further En<g ref="char:EOLhyphen"/>acted by the authority aforeſaid, That the ſaid Commiſſioners, or any five of them, in the ſaid reſpective counties, ſhall have power, and are hereby authorized to collect and receive of the perſons that are to have benefit by this Act, ſo much money as ſhall defray the neceſſary charge of proſecuting this ſervice: Provided, That the ſame exceed not the ſum of One hundred pounds in each county: And that no one Com<g ref="char:EOLhyphen"/>miſsioner be allowed for his charges, in attend<g ref="char:EOLhyphen"/>ing the ſaid ſervice, above the rate of Five ſhil<g ref="char:EOLhyphen"/>lings <hi>per diem,</hi> for every day that he ſhall be actu<g ref="char:EOLhyphen"/>ally imployed in the ſaid ſervice: And be it fur<g ref="char:EOLhyphen"/>ther Enacted by the authority aforeſaid, That all former ſuſpenſions of Sequeſtrations, made by Sir <hi>Thomas Middleton,</hi> by vertue of an Ordi<g ref="char:EOLhyphen"/>nance of Parliament, authorizing him ſo to do, or made by any other perſon or perſons imployed in the ſervice of the Parliament in the ſaid coun<g ref="char:EOLhyphen"/>ties, not authorized thereunto by any Act, Or<g ref="char:EOLhyphen"/>dinance or Order of Parliament, be from hence<g ref="char:EOLhyphen"/>forth void and of none effect. And be it further Declared and Enacted by the authority afore<g ref="char:EOLhyphen"/>ſaid, That the payment of any part of the ſaid Fine, or of any other ſum of money by any of the Inhabitants of the ſaid counties, in purſuance of this Act, ſhall not be conſtrued, or taken to be a ſufficient matter of evidence or confeſsion, for the conviction of ſuch perſon to have acted any thing againſt the Parliament: And where<g ref="char:EOLhyphen"/>as Col: <hi>Thomas Maſon,</hi> Capt. <hi>Richard Price,</hi> Capt. <hi>Thomas Ball,</hi> and <hi>Richard Cheadle</hi>
+               <abbr>Eſq</abbr> have done
+<pb n="450" facs="tcp:169037:7"/>
+               <!-- PDF PAGE 43 -->very good and faithful ſervice to the Common<g ref="char:EOLhyphen"/>wealth, ſome of them having had their houſes burnt, and their whole eſtates kept from them for divers years by the enemy (to their total ruine) for their affection to the Parliament; by reaſon whereof they are become incapable of ſerving the Commonwealth, according to the truſt repoſed in them, unleſs they receive ſome ſeaſonable ſupply and reparation towards their Arrears, Disburſements and ſufferings; Be it therefore enacted by the authority aforeſaid, That the ſum of Two thouſand pounds out of the firſt money that ſhall be raiſed by Sequeſtra<g ref="char:EOLhyphen"/>tion of, or Compoſition with any new Delin<g ref="char:EOLhyphen"/>quents in the ſaid counties, not pardoned by this Act, ſhall be diſpoſed of towards ſatisfaction of the Arrears, Disburſements, and Repara<g ref="char:EOLhyphen"/>tion of the loſſes and ſufferings of the ſaid per<g ref="char:EOLhyphen"/>ſons, as the Parliament ſhall hereafter order and appoint: And likewiſe, That the debts and engagements of <hi>William Lloid</hi>
+               <abbr>Eſq</abbr> late High Sheriff of the county of <hi>Carnarvon,</hi> now deceaſed, not exceeding One thouſand pounds, be accord<g ref="char:EOLhyphen"/>ing to a Vote of the Commons aſſembled in Parliament, of the tenth of <hi>June,</hi> One thouſand ſix hundred forty eight, diſcharged out of the Rents, Fines or Compoſitions of the ſaid new Delinquents not pardoned by this Act.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Die Veneris, 10 Auguſti, 1649.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons in Parliament aſſembled, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliament'.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
